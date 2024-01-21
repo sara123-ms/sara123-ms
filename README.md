@@ -3,7 +3,7 @@
   <img width="300" src="https://www.bing.com/th/id/OGC.6e6dfbb2a1ea03b17f10836e772d943c?pid=1.7&rurl=https%3a%2f%2fwww.gifcen.com%2fwp-content%2fuploads%2f2022%2f07%2fdiscord-banner-gif-7.gif&ehk=4%2ftQTPg2xI1OLF4JoclMF0sSEL%2feROK3%2bvu8kb0dBsA%3d">
   <img width="200" src="https://media1.giphy.com/media/57Y7JIqvH9okJCJYjp/200.webp?cid=ecf05e47se3czrd65dy1pn7tga1wvtbivthzduwxsazkhrcq&ep=v1_stickers_search&rid=200.webp&ct=s">
 </p>
-<h1 align="center">📍Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Sara<img align="center" width=40px src="https://media3.giphy.com/media/hof5uMY0nBwxyjY9S2/200w.webp?cid=ecf05e470xfu0yb18kctzvdvstnb4k81tp3s4w6dd0pyo2wo&ep=v1_stickers_search&rid=200w.webp&ct=e](https://giphy.com/stickers/hof5uMY0nBwxyjY9S2"></h1>
+<h1 align="center">📍Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Saravinda<img align="center" width=40px src="https://media3.giphy.com/media/hof5uMY0nBwxyjY9S2/200w.webp?cid=ecf05e470xfu0yb18kctzvdvstnb4k81tp3s4w6dd0pyo2wo&ep=v1_stickers_search&rid=200w.webp&ct=e](https://giphy.com/stickers/hof5uMY0nBwxyjY9S2"></h1>
 <h3 align="center"><img width="35" align="center"  src="https://media4.giphy.com/media/VDNDX5BhKKz0YsJkl0/200w.webp?cid=ecf05e47jzye64vjnjg4odmdwvf6uvqu667r6kv2w9wmlt9v&ep=v1_stickers_search&rid=200w.webp&ct=e" >A passionate IT student<img width="25" align="center" src="https://media1.giphy.com/media/IkSSSgxxOhsvzqFiVu/200w.webp?cid=ecf05e47cokedvd726222n86butct6wpnijrry52zgx4fw7b&ep=v1_stickers_search&rid=200w.webp&ct=s"></h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif">
