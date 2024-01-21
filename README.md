@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara123-ms&label=Profile%20views&color=0e75b6&style=flat" alt="sara123-ms" /> </p>
 
-<img width="40"  src="https://media0.giphy.com/media/8joJtZfQr9n7FjkmpA/200w.webp?cid=ecf05e47hp0d0gvzkeqp46v7esznp8zs1673suld5ijn2p82&ep=v1_stickers_search&rid=200w.webp&ct=s"> 🌱 I’m currently learning **Mern,Python**⏳
+<img width="40"  src="https://media0.giphy.com/media/8joJtZfQr9n7FjkmpA/200w.webp?cid=ecf05e47hp0d0gvzkeqp46v7esznp8zs1673suld5ijn2p82&ep=v1_stickers_search&rid=200w.webp&ct=s"> 🌱 I’m currently learning **Mern**⏳
 
 <img width="40"  src="https://media0.giphy.com/media/8joJtZfQr9n7FjkmpA/200w.webp?cid=ecf05e47hp0d0gvzkeqp46v7esznp8zs1673suld5ijn2p82&ep=v1_stickers_search&rid=200w.webp&ct=s"> 📫 How to reach me **saramiyula@gmail.com**👈
 
